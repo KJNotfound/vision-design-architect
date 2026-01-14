@@ -19,14 +19,14 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/YOUR_USERNAME/vision-design-architect.git
+git clone https://github.com/KJNotfound/vision-design-architect.git
 cd vision-design-architect
-```
-
 ### 2. 安装依赖
 ```bash
 npm install
-```
+``````
+
+
 
 ### 3. 配置 API 密钥
 本应用需要使用 Google Gemini API 密钥。
