@@ -1,0 +1,8 @@
+
+{
+  "name": "Vision Design Architect",
+  "description": "A professional AI-powered tool for converting product photos into high-fidelity 3-view technical drawings and orthographic blueprints.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
